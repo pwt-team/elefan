@@ -1,0 +1,58 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+body {
+	color:#000;
+	font-family:"Microsoft YaHei";
+	cursor:default;
+}
+
+ul li {
+	list-style:none;	
+}
+
+a {
+	text-decoration: none;
+}
+
+a:LINK {
+	color:#000;
+}
+
+a:ACTIVE {
+	color:#000;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* header */
+header,footer,nav,center,footer {
+	width:100%;
+}
+
+header {
+	background:#898989; 
+	font-family:"Microsoft YaHei";
+}
+
+nav {
+	background:#1BA358;
+}
+
+.whitetext {
+	color:#fff;	
+}
+.blacktext {
+	color:#000;	
+}
+
